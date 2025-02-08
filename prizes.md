@@ -635,7 +635,7 @@ Submissions will be evaluated based on depth of integration, originality, feasib
 Projects are eligible for multiple prizes!
 🤖 Pool Prize ⸺ $1,500
 Up to 3 teams will receive $500
-This prize is split between three teams for innovative and effective use of the Lit Agent Wallet that didn't win one of the other prizes. 
+This prize is split between three teams for `innovative `and effective use of the Lit Agent Wallet that didn't win one of the other prizes. 
 Qualification Requirements
 
 -Submissions must integrate the Lit Agent Wallet as a core component of the project.

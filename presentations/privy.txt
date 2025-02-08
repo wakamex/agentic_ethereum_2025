@@ -1,0 +1,11 @@
+Hello, I am super excited to talk to you about server wallets today.
+
+Server wallets give you direct access to Privy's wallet infrastructure via powerful low-level APIs. So where Privy embedded wallets are typically used to onboard users to crypto, no matter how familiar they are with crypto or not, server wallets give your application access to digital assets at scale by giving you a low level programmable library that you can use to spin up and manage wallets directly from your backend.
+
+This means you can basically spin up fleets of wallets at scale across Bitcoin, Solana, and EVM chain. You have robust transaction control so you decide exactly what happens and a powerful policy engine so you can decide what transactions are allowed and which aren't and who transactions can be submitted by. In all cases, server wallets are spun up with basically a wallet owner and that owner is the one who can submit transactions for that wallet.
+
+I'll kind of show you how they work. So here we have a simple demo that we set up to show off server wallets. As you see, I'm making curl requests basically to spin up new wallets. And so here I'm building up my fleet of wallets. I've got four now. And as I do this, it's a really a simple API call to generate in this case an Ethereum wallet.
+
+From here, I'm going to trigger a transaction to receive funds on chain. And here the webhook actually just fired and I see that I now have 0.01 ETH in 0XD1 and I can transfer those funds onwards if I want. Again, all of this is happening via API calls and as you can see, all of this is actually happening on chain in real time.
+
+So the point really is to give you much simpler means of controlling money movement at scale for your entire application, your customers, your users. Um so there you have it. Server wallets are a new way to access embedded wallets directly from a backend. We're excited for you to take them out for a spin. Uh please reach out if you want early access.
