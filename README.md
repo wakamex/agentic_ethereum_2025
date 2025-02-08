@@ -14,4 +14,4 @@ Be sick and tired and lazy and don't do any work
 
 ## Day Eight
 
-Add in some Ethereum stuff
+Review Olas Dev Kickstart 2: Part Three and submit pracitce PR https://github.com/valory-xyz/mech-tool-template/pull/3
